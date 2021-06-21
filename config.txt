@@ -1,0 +1,1 @@
+{"code":0,"status":true,"ts":1623569337,"data":{"url":"https://passport.biligame.com/crossDomain?DedeUserID=xxxxxxx&DedeUserID__ckMd5=xxxxxx&Expires=15551000&SESSDATA=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx&bili_jct=xxxxxxxxxxxxxxxxxxxxxxx&gourl=http%3A%2F%2Fwww.bilibili.com"}}
